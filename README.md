@@ -1,8 +1,7 @@
 ![header](https://Jisun World.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 # 👩🏻‍💻이지선 Lee JIsun 
-
-![지뗘닝](https://user-images.githubusercontent.com/89379902/211256470-28163134-4070-49ad-b735-daa2bceffcc7.jpg){: width="100" height="100"}
+<img src="https://user-images.githubusercontent.com/89379902/211256470-28163134-4070-49ad-b735-daa2bceffcc7.jpg" width="200" height="400"/>
 
 ## Introduce
 - 👋 Hi, I’m Lee Jisun 안녕하세요 이지선입니다. 
