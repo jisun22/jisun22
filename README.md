@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JisunWorld&fontColor=d6ace6d&fontSize=90&)
 
 ![jisun](https://user-images.githubusercontent.com/89379902/211802756-ef47dd53-8352-46a6-8cb7-47eac4f5b61b.png)
 
@@ -72,3 +71,6 @@
 
 ▶ ReactClass <br/>
 :point_right: https://github.com/jisun22/ReactClass
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JisunWorld&fontColor=d6ace6d&fontSize=90&)
