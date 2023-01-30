@@ -14,7 +14,7 @@
 - 👀 I’m interested in Frontend ♥ 꾸준히 배우고 성장하고 있습니다. 
 - 🌱 I’m currently learning React, typescript, next.js, javascript
 - 💞️ 새로운 기술을 배우는 것을 좋아합니다.
-- 📫 How to reach me  -> hayanangela@gmail.com  /  sun_n22@naver.com
+- 📫 How to reach me  -> hayanangela@gmail.com  /  @naver.com
 
 ## :pencil2:Language:pencil2:
 
