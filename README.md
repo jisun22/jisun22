@@ -56,16 +56,17 @@ https://jisun22.github.io/ReactFolio/
 
 ##  :clipboard:Portfolio :clipboard:
 
-▶ React를 활용한 Jisun's Portfolio <br/>
- :point_right: https://github.com/jisun22/ReactFolio
- 
- 
-▶ 개인 프로젝트 vuePortfolio <br/>
- :point_right: https://github.com/jisun22/VuePortfolio.git
-
 ▶ 팀 프로젝트 Tool Library <br/>
  :point_right: https://github.com/jisun22/ToolLibrary
 
+▶ React를 활용한 Jisun's Portfolio <br/>
+ :point_right: https://github.com/jisun22/ReactFolio
+ 
+▶ 개인 프로젝트 vuePortfolio <br/>
+ :point_right: https://github.com/jisun22/VuePortfolio.git
+ 
+▶ ReactClass <br/>
+:point_right: https://github.com/jisun22/ReactClass
 
 ▶ 개인 프로젝트 JSgroup <br/>
  :point_right: https://github.com/jisun22/jsgroup
@@ -74,9 +75,6 @@ https://jisun22.github.io/ReactFolio/
 ▶ 개인 프로젝트 LeePetStore <br/>
  :point_right: https://github.com/jisun22/LeePetStore
 
-
-▶ ReactClass <br/>
-:point_right: https://github.com/jisun22/ReactClass
 
 
 
