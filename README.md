@@ -1,8 +1,10 @@
+## 👇 Click on the image below 👇
 
-![jisunporfol](https://user-images.githubusercontent.com/89379902/216295661-8dfa1780-1d76-4d1e-bfad-91142c97eeda.png)
+<a href="https://jisun22.github.io/ReactFolio/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/89379902/216295661-8dfa1780-1d76-4d1e-bfad-91142c97eeda.png" width="100%" align="left">
+</a>
 
-
-
+https://jisun22.github.io/ReactFolio/
 
 # 👩🏻‍💻이지선 Lee JIsun 
 
