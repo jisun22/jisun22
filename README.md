@@ -1,6 +1,7 @@
 
+![jisunporfol](https://user-images.githubusercontent.com/89379902/216295661-8dfa1780-1d76-4d1e-bfad-91142c97eeda.png)
 
-![jisun](https://user-images.githubusercontent.com/89379902/211802756-ef47dd53-8352-46a6-8cb7-47eac4f5b61b.png)
+
 
 
 # 👩🏻‍💻이지선 Lee JIsun 
@@ -11,7 +12,7 @@
 
 ## :information_desk_person:Introduce
 - 👋 Hi, I’m Lee Jisun 안녕하세요 이지선입니다. 
-- 👀 I’m interested in Frontend ♥ 꾸준히 배우고 성장하고 있습니다. 
+- 👀 I’m interested in Frontend / Backend ♥ 꾸준히 배우고 성장하고 있습니다. 
 - 🌱 I’m currently learning React, typescript, next.js, javascript
 - 💞️ 새로운 기술을 배우는 것을 좋아합니다.
 - 📫 How to reach me  -> hayanangela@gmail.com  /  @naver.com
