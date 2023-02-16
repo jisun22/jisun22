@@ -64,9 +64,6 @@ https://jisun22.github.io/ReactFolio/
  
 ▶ 개인 프로젝트 vuePortfolio <br/>
  :point_right: https://github.com/jisun22/VuePortfolio.git
- 
-▶ ReactClass <br/>
-:point_right: https://github.com/jisun22/ReactClass
 
 ▶ 개인 프로젝트 JSgroup <br/>
  :point_right: https://github.com/jisun22/jsgroup
