@@ -57,7 +57,7 @@ https://jisun22.github.io/ReactFolio/
 ##  :clipboard:Portfolio :clipboard:
 
 블로그
- :point_right: jiddon2.tistory.com
+ :point_right: https://jiddon2.tistory.com
 
 ▶ 팀 프로젝트 Tool Library <br/>
  :point_right: https://github.com/jisun22/ToolLibrary
