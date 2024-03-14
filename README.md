@@ -78,8 +78,9 @@ https://jisun22.github.io/ReactFolio/
  :point_right: https://github.com/jisun22/LeePetStore
 
 
+##  🌱Github Chart API 🌱
 
-
+<img src="https://ghchart.rshah.org/jisun22" />
  
 
 
