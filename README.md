@@ -61,15 +61,9 @@ https://jisun22.github.io/ReactFolio/
 
 ▶ 팀 프로젝트 Tool Library <br/>
  :point_right: https://github.com/jisun22/ToolLibrary
- 
-▶ 개인 프로젝트 Jisun Blog <br/>
-:point_right: https://github.com/jisun22/jisunblog
 
 ▶ React를 활용한 Jisun's Portfolio <br/>
  :point_right: https://github.com/jisun22/ReactFolio
- 
-▶ 개인 프로젝트 vuePortfolio <br/>
- :point_right: https://github.com/jisun22/VuePortfolio.git
 
 ▶ 개인 프로젝트 JSgroup <br/>
  :point_right: https://github.com/jisun22/jsgroup
