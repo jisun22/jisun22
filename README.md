@@ -59,8 +59,6 @@ https://jisun22.github.io/ReactFolio/
 블로그
  :point_right: https://jiddon2.tistory.com
 
-▶ 팀 프로젝트 Tool Library <br/>
- :point_right: https://github.com/jisun22/ToolLibrary
 
 ▶ React를 활용한 Jisun's Portfolio <br/>
  :point_right: https://github.com/jisun22/ReactFolio
